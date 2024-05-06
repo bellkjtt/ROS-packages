@@ -1,0 +1,8 @@
+prefix=/home/sikaro/catkin_ws/devel
+
+Name: traj_plan
+Description: Description of traj_plan
+Version: 0.0.0
+Cflags: -I/home/sikaro/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp trajectory_msgs message_generation

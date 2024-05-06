@@ -1,0 +1,8 @@
+prefix=/home/sikaro/catkin_ws/devel
+
+Name: urdf_test_02
+Description: Description of urdf_test_02
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

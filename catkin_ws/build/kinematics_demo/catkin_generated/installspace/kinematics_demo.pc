@@ -1,0 +1,8 @@
+prefix=/home/sikaro/catkin_ws/install
+
+Name: kinematics_demo
+Description: Description of kinematics_demo
+Version: 0.0.0
+Cflags: -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: trajectory_msgs sensor_msgs interactive_markers visualization_msgs moveit_core moveit_ros_planning_interface moveit_visual_tools

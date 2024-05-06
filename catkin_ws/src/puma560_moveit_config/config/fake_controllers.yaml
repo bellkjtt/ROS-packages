@@ -1,5 +1,5 @@
 controller_list:
-  - name: fake_puma560_controller
+  - name: fake_puma_560_controller
     type: $(arg fake_execution_type)
     joints:
       - j1
@@ -9,5 +9,5 @@ controller_list:
       - j5
       - j6
 initial:  # Define initial robot poses.
-  - group: puma560
+  - group: puma_560
     pose: zero_pos

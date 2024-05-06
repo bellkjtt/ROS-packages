@@ -1,0 +1,8 @@
+prefix=/home/sikaro/catkin_ws/devel
+
+Name: scara_description
+Description: Description of scara_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

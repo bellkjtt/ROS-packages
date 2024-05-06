@@ -6,6 +6,6 @@ moveit_setup_assistant_config:
   SRDF:
     relative_path: config/Puma560.srdf
   CONFIG:
-    author_name: dd
+    author_name: dcd
     author_email: bellkjtt@gmail.com
-    generated_timestamp: 1713082168
+    generated_timestamp: 1713273979

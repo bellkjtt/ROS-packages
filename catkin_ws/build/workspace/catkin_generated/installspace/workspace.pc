@@ -1,0 +1,8 @@
+prefix=/home/sikaro/catkin_ws/install
+
+Name: workspace
+Description: Description of workspace
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: trajectory_msgs moveit_core moveit_ros_planning_interface moveit_visual_tools

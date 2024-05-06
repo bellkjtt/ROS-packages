@@ -1,0 +1,2 @@
+kinematics_demo:pick_n_place:puma560_description:puma560_moveit_config:rrr_description:rrr_moveit_config:scara_description:scara_moveit_config:traj_plan:tutorial:urdf_test_02:workspace
+-DCATKIN_DEVEL_PREFIX=/home/sikaro/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sikaro/catkin_ws/install -G Unix Makefiles

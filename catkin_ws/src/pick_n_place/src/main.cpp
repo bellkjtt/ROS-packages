@@ -18,7 +18,7 @@ int main(int argc, char **argv)
   spinner.start();
 
   // Setup
-  static const std::string PLANNING_GROUP = "puma560"; // == joint model group
+  static const std::string PLANNING_GROUP = "puma_560"; // == joint model group
   static const std::string LOGNAME = "my_puma_tutorial";
   ROS_INFO_STREAM_NAMED(LOGNAME, "Starting MoveIt Tutorials...");
 
